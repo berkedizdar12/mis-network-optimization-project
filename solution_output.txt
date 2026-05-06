@@ -1,0 +1,43 @@
+============================================================
+OPTIMAL DELIVERY ROUTES FROM: Warehouse_Istanbul
+============================================================
+
+Destination : Customer_Atasehir
+Route       : Warehouse_Istanbul -> Hub_Kadikoy -> Customer_Atasehir
+Cost        : 69 TL
+Distance    : 23 km
+Travel Time : 39 min
+
+Destination : Customer_Eyup
+Route       : Warehouse_Istanbul -> Hub_Sisli -> Customer_Eyup
+Cost        : 57 TL
+Distance    : 19 km
+Travel Time : 34 min
+
+Destination : Customer_Kagithane
+Route       : Warehouse_Istanbul -> Hub_Sisli -> Customer_Kagithane
+Cost        : 51 TL
+Distance    : 17 km
+Travel Time : 30 min
+
+Destination : Customer_Maltepe
+Route       : Warehouse_Istanbul -> Hub_Kadikoy -> Customer_Maltepe
+Cost        : 81 TL
+Distance    : 27 km
+Travel Time : 45 min
+
+Destination : Customer_Pendik
+Route       : Warehouse_Istanbul -> Hub_Kadikoy -> Customer_Pendik
+Cost        : 105 TL
+Distance    : 35 km
+Travel Time : 60 min
+
+Destination : Customer_Sariyer
+Route       : Warehouse_Istanbul -> Hub_Besiktas -> Customer_Sariyer
+Cost        : 90 TL
+Distance    : 30 km
+Travel Time : 50 min
+
+------------------------------------------------------------
+Total delivery cost to all customers: 453 TL
+============================================================
