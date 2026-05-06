@@ -1,0 +1,5 @@
+networkx>=3.2
+pandas>=2.0
+matplotlib>=3.7
+jupyter>=1.0
+ipython>=8.0
